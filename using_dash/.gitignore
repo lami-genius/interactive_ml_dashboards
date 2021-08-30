@@ -1,0 +1,5 @@
+# Ignore venv
+dash_env
+
+# Ignore notebook check points
+.ipynb_checkpoints
